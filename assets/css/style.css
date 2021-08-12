@@ -1,0 +1,31 @@
+/*pour donner la police de mon text*/
+.igs-font-arial{
+    font-family: Arial, Helvetica, sans-serif;
+}
+.igs-txt-center{
+    text-align: center;
+}
+.igs-color-red{
+    color: red;
+}
+/*la taille de mon texte*/
+.igs-font-px{
+    font-size: 25px;
+}
+/*enleveer la marque des liste*/
+.igs-lst-none{
+    list-style-type: none;
+}
+/*aligner en block*/
+.igs-display-block{
+    display:inline-block;
+}
+/*faire des des marges exterieur et interieur*/
+.igs-mar-px{
+    margin: 0px;
+}
+.igs-par-px{
+    padding: 0px;
+}
+
+
