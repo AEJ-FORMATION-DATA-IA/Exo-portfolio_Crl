@@ -1,3 +1,10 @@
+*{
+    text-decoration:none;
+    color:blue;
+}
+   
+
+
 /*pour donner la police de mon text*/
 .igs-font-arial{
     font-family: Arial, Helvetica, sans-serif;
@@ -15,6 +22,12 @@
 /*enleveer la marque des liste*/
 .igs-lst-none{
     list-style-type: none;
+    color:blue;
+}
+
+/*couleur de font du menu*/
+.igs-backg-black{
+    background: rgb(48, 46, 46);
 }
 /*aligner en block*/
 .igs-display-block{
@@ -23,9 +36,28 @@
 /*faire des des marges exterieur et interieur*/
 .igs-mar-px{
     margin: 0px;
+    text-align: center;
 }
 .igs-par-px{
+
     padding: 0px;
 }
+.igs-width-px{
+    border: 1px solid red;
+}
+.igs-height-px{
+    height: 40px;
+}
 
+/*corps de la page*/
+/*couleur de fond de chaque secion*/
+.igs-backg-rgb{
+    background: rgb(137, 129, 248);
+}
+.igs-txt-align{
+    text-align: center;
+}
+.igs-font-30{
+    font-size: 30px;
+}
 
